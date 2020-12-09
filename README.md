@@ -12,7 +12,7 @@ Voor de analyse is gebruik gemaakt van de volgende software versies:
 * `keywords` zijn verschillende woorden zoals: bezorg, product, service, levering, slecht, goed, nep, misleid. Deze zijn gebruikt om te analyseren hoevaak deze voorkomen (als geheel woord) in de reviews. dit is voor zowel 2019 als 2020 apart gedaan. 
 ## Gebruik
 Er is een Python file (`BP notebook bol.com.ypnb`) met algemene functies. De onderstaande bestanden moeten in de volgende volgorden worden uitgevoerd met Python:
-1. 
+1. `Sterrenverdeling_2019-2020` laat zien hoe de sterratings per jaar verdeeld zijn. 
 2. 
 3.
 4.
