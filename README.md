@@ -16,5 +16,5 @@ Er is een Python file (`BP final notebook.ypnb`) met algemene functies. De onder
 2. `Sterrenverdeling_2019-2020.py` laat zien hoe de sterratings per jaar verdeeld zijn. 
 3. `Tellen keywords 2019.py` laat zien hoeveel reviews in 2019 over een bepaald keyword gaat. 
 4. `Tellen keywords 2020.py`laat zien hoeveel reviews in 2020 over een bepaald keyword gaat. 
-5.
+5. `Barchart verdeling keywords reviews 2019-2020.py` laat zien hoe de verdeling van keywords in de reviews zijn. 
 
